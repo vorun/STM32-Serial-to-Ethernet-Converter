@@ -1,0 +1,32 @@
+Add Component: Footprint Not Found QFN50P700X700X60-49N-D
+Added Pin To Net: NetName=USART2_EN Pin=IC2-11
+Added Pin To Net: NetName=USART2_TX Pin=IC2-12
+Added Pin To Net: NetName=USART2_RX Pin=IC2-13
+Added Pin To Net: NetName=SPI1_SS Pin=IC2-14
+Added Pin To Net: NetName=SPI1_SCK Pin=IC2-15
+Added Pin To Net: NetName=SPI1_MISO Pin=IC2-16
+Added Pin To Net: NetName=SPI1_MOSI Pin=IC2-17
+Added Pin To Net: NetName=RSTn Pin=IC2-18
+Added Pin To Net: NetName=INTn Pin=IC2-19
+Added Pin To Net: NetName=SPI2_SS Pin=IC2-25
+Added Pin To Net: NetName=SPI2_SCK Pin=IC2-26
+Added Pin To Net: NetName=SPI2_MISO Pin=IC2-27
+Added Pin To Net: NetName=SPI2_MOSI Pin=IC2-28
+Added Pin To Net: NetName=USART1_TX Pin=IC2-30
+Added Pin To Net: NetName=USART1_RX Pin=IC2-31
+Added Pin To Net: NetName=USART1_CTS Pin=IC2-32
+Added Pin To Net: NetName=USART1_RTS Pin=IC2-33
+Added Pin To Net: NetName=MCU_SWDIO Pin=IC2-34
+Added Pin To Net: NetName=MCU_SWCLK Pin=IC2-37
+Added Pin To Net: NetName=MCU_SWO Pin=IC2-39
+Added Pin To Net: NetName=CAN_S Pin=IC2-43
+Added Pin To Net: NetName=CAN_RX Pin=IC2-45
+Added Pin To Net: NetName=CAN_TX Pin=IC2-46
+Add Pin To Net: Unknown Pin: Pin J5-MP1
+Add Pin To Net: Unknown Pin: Pin J5-MP2
+Add Pin To Net: Unknown Pin: Pin J6-MP1
+Add Pin To Net: Unknown Pin: Pin J6-MP2
+Added Pin To Net: NetName=NetIC2_41 Pin=IC2-41
+Added Pin To Net: NetName=NetIC2_41 Pin=R8-2
+Added Net: Name=NetIC2_41
+Add Class Member: Failed to add class member : Component IC? STM32F411CEU6

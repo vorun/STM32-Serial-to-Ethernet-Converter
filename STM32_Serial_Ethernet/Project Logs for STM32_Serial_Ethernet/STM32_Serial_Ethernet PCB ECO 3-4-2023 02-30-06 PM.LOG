@@ -1,0 +1,30 @@
+Added Component: Designator=J5(JST_SM04B-GHS-TB(LF)(SN)-)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SM04B-GHS-TB_LF__SN_-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SM04B-GHS-TB%28LF%29%28SN%29-/JST%20Sales%20America%20Inc./view-part/2759740/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J6(JST_SM04B-GHS-TB(LF)(SN)-)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SM04B-GHS-TB_LF__SN_-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SM04B-GHS-TB%28LF%29%28SN%29-/JST%20Sales%20America%20Inc./view-part/2759740/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=J5-1
+Added Pin To Net: NetName=CAN_P Pin=J5-2
+Added Pin To Net: NetName=CAN_N Pin=J5-3
+Added Pin To Net: NetName=GND Pin=J5-4
+Added Pin To Net: NetName=GND Pin=J5-SH1
+Added Pin To Net: NetName=GND Pin=J5-SH2
+Added Pin To Net: NetName=3V3 Pin=J6-1
+Added Pin To Net: NetName=RS485_D_P Pin=J6-2
+Added Pin To Net: NetName=RS485_D_N Pin=J6-3
+Added Pin To Net: NetName=GND Pin=J6-4
+Added Pin To Net: NetName=GND Pin=J6-SH1
+Added Pin To Net: NetName=GND Pin=J6-SH2
+Added Member To Class: ClassName=Serial Member=Component J5 SM04B-GHS-TB(LF)(SN)-
+Added Member To Class: ClassName=Serial Member=Component J6 SM04B-GHS-TB(LF)(SN)-

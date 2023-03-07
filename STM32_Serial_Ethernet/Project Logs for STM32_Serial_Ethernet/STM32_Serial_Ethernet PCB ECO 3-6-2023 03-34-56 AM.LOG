@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=3V3 Pin=J1-1
+Removed Pin From Net: NetName=SWDIO Pin=J1-2
+Removed Pin From Net: NetName=NRST Pin=J1-3
+Removed Pin From Net: NetName=SWCLK Pin=J1-4
+Removed Pin From Net: NetName=GND Pin=J1-5
+Removed Pin From Net: NetName=SWO Pin=J1-6
+Removed Member From Class: ClassName=STM32 Member=J1

@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=IC2 Old Footprint=STM32F103C8T6 New Footprint=QFP50P900X900X160-48N
+Add Pin To Net: Unknown Pin: Pin P1-7
+Add Pin To Net: Unknown Pin: Pin P1-8

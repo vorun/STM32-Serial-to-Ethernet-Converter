@@ -1,0 +1,10 @@
+Added Component: Designator=M1(MOUNTIMG_HOLE_3.2MM-5MM)
+Added Component: Designator=M2(MOUNTIMG_HOLE_3.2MM-5MM)
+Added Component: Designator=M3(MOUNTIMG_HOLE_3.2MM-5MM)
+Added Component: Designator=M4(MOUNTIMG_HOLE_3.2MM-5MM)
+Added Member To Class: ClassName=Serial Member=Component J5 SM04B-GHS-TB(LF)(SN)-
+Added Member To Class: ClassName=Serial Member=Component J6 SM04B-GHS-TB(LF)(SN)-
+Added Member To Class: ClassName=STM32 Member=Component M1 MOUNTING_HOLE_3.2MM-5MM
+Added Member To Class: ClassName=STM32 Member=Component M2 MOUNTING_HOLE_3.2MM-5MM
+Added Member To Class: ClassName=STM32 Member=Component M3 MOUNTING_HOLE_3.2MM-5MM
+Added Member To Class: ClassName=STM32 Member=Component M4 MOUNTING_HOLE_3.2MM-5MM

@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Ethernet.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Ethernet.SchDoc|FileName=Serial.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Ethernet.SchDoc|FileName=STM32.SchDoc|SheetNumber=1

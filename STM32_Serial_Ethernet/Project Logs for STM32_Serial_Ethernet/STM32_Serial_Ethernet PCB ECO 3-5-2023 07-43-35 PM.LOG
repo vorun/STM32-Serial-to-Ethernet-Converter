@@ -1,0 +1,14 @@
+Added Component: Designator=L2(IND_AMDLA4020S-2R2MT)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AMDLA4020S-2R2MT/Abracon/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Abracon Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AMDLA4020S-2R2MT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/AMDLA4020S-2R2MT/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AMDLA4020S-2R2MT/Abracon/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=STM32 Member=Component L2 AMDLA4020S-2R2MT
+Added Room: Name=Ethernet
+Added Room: Name=Serial
+Added Room: Name=STM32

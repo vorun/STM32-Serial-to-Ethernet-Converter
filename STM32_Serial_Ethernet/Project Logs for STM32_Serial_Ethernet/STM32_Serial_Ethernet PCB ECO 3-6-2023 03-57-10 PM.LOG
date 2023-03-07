@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=VIN Pin=J7-1
+Removed Pin From Net: NetName=VIN Pin=J7-2
+Removed Pin From Net: NetName=GND Pin=J7-5
+Removed Pin From Net: NetName=GND Pin=J7-6
+Removed Pin From Net: NetName=GND Pin=J7-7
+Removed Pin From Net: NetName=GND Pin=J7-8
+Removed Member From Class: ClassName=STM32 Member=J7
+Change Component Footprint: Designator=IC2 Old Footprint=STM32F103C8T6 New Footprint=QFP50P900X900X160-48N
+Added Pin To Net: NetName=VIN Pin=P1-1
+Added Pin To Net: NetName=VIN Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P1-6
+Add Pin To Net: Unknown Pin: Pin P1-7
+Add Pin To Net: Unknown Pin: Pin P1-8
+Added Room: Name=Ethernet
+Added Room: Name=Serial
+Added Room: Name=STM32

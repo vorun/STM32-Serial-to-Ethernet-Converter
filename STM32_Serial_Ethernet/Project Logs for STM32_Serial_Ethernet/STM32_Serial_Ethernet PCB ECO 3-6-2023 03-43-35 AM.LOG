@@ -1,0 +1,10 @@
+Added Component: Designator=J1(G800W302018EU)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Amphenol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "G800W302018EU"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=J1-1
+Added Pin To Net: NetName=NRST Pin=J1-2
+Added Pin To Net: NetName=SWDIO Pin=J1-3
+Added Pin To Net: NetName=SWCLK Pin=J1-4
+Added Pin To Net: NetName=SWO Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Member To Class: ClassName=STM32 Member=Component J1 G800W302018EU

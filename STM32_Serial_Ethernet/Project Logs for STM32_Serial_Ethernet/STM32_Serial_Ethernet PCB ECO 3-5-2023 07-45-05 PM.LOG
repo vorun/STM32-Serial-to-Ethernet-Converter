@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetIC1_3 Pin=L1-1
+Removed Pin From Net: NetName=3V3 Pin=L1-2
+Removed Member From Class: ClassName=STM32 Member=L1
+Added Pin To Net: NetName=NetIC1_3 Pin=L2-1
+Added Pin To Net: NetName=3V3 Pin=L2-2
+Added Room: Name=Ethernet
+Added Room: Name=Serial

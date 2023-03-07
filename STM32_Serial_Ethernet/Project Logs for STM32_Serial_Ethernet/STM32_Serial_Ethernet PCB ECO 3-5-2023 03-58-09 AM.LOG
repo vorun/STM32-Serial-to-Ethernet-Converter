@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=C28-1
+Removed Pin From Net: NetName=3V3 Pin=C28-2
+Removed Member From Class: ClassName=Ethernet Member=C28
+Added Room: Name=Ethernet
+Added Room: Name=Serial
+Added Room: Name=STM32

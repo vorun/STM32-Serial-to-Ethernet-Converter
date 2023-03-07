@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=C34-1
+Removed Pin From Net: NetName=T0CAP Pin=C34-2
+Removed Member From Class: ClassName=Ethernet Member=C34
+Added Pin To Net: NetName=GND Pin=C50-1
+Added Pin To Net: NetName=T0CAP Pin=C50-2

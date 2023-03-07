@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=J6-1
+Removed Pin From Net: NetName=RS485_D_N Pin=J6-2
+Removed Pin From Net: NetName=RS485_D_P Pin=J6-3
+Removed Pin From Net: NetName=3V3 Pin=J6-4
+Added Pin To Net: NetName=3V3 Pin=J6-1
+Added Pin To Net: NetName=RS485_D_P Pin=J6-2
+Added Pin To Net: NetName=RS485_D_N Pin=J6-3
+Added Pin To Net: NetName=GND Pin=J6-4
+Added Room: Name=Ethernet
+Added Room: Name=Serial
+Added Room: Name=STM32

@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=3V3 Pin=IC2-1
+Removed Pin From Net: NetName=OSC_IN Pin=IC2-5
+Removed Pin From Net: NetName=OSC_OUT Pin=IC2-6
+Removed Pin From Net: NetName=MCU_NRST Pin=IC2-7
+Removed Pin From Net: NetName=BOOT0 Pin=IC2-8
+Removed Pin From Net: NetName=3V3 Pin=IC2-9
+Removed Pin From Net: NetName=USART2_EN Pin=IC2-11
+Removed Pin From Net: NetName=USART2_TX Pin=IC2-12
+Removed Pin From Net: NetName=USART2_RX Pin=IC2-13
+Removed Pin From Net: NetName=SPI1_SS Pin=IC2-14
+Removed Pin From Net: NetName=SPI1_SCK Pin=IC2-15
+Removed Pin From Net: NetName=SPI1_MISO Pin=IC2-16
+Removed Pin From Net: NetName=SPI1_MOSI Pin=IC2-17
+Removed Pin From Net: NetName=RSTn Pin=IC2-18
+Removed Pin From Net: NetName=INTn Pin=IC2-19
+Removed Pin From Net: NetName=BOOT0 Pin=IC2-23
+Removed Pin From Net: NetName=3V3 Pin=IC2-24
+Removed Pin From Net: NetName=SPI2_SS Pin=IC2-25
+Removed Pin From Net: NetName=SPI2_SCK Pin=IC2-26
+Removed Pin From Net: NetName=SPI2_MISO Pin=IC2-27
+Removed Pin From Net: NetName=SPI2_MOSI Pin=IC2-28
+Removed Pin From Net: NetName=USART1_TX Pin=IC2-30
+Removed Pin From Net: NetName=USART1_RX Pin=IC2-31
+Removed Pin From Net: NetName=USART1_CTS Pin=IC2-32
+Removed Pin From Net: NetName=USART1_RTS Pin=IC2-33
+Removed Pin From Net: NetName=MCU_SWDIO Pin=IC2-34
+Removed Pin From Net: NetName=BOOT0 Pin=IC2-35
+Removed Pin From Net: NetName=3V3 Pin=IC2-36
+Removed Pin From Net: NetName=MCU_SWCLK Pin=IC2-37
+Removed Pin From Net: NetName=MCU_SWO Pin=IC2-39
+Removed Pin From Net: NetName=CAN_S Pin=IC2-43
+Removed Pin From Net: NetName=BOOT0 Pin=IC2-44
+Removed Pin From Net: NetName=CAN_RX Pin=IC2-45
+Removed Pin From Net: NetName=CAN_TX Pin=IC2-46
+Removed Pin From Net: NetName=BOOT0 Pin=IC2-47
+Removed Pin From Net: NetName=3V3 Pin=IC2-48
+Removed Member From Class: ClassName=STM32 Member=IC2
+Add Pin To Net: Unknown Pin: Pin J5-MP1
+Add Pin To Net: Unknown Pin: Pin J5-MP2
+Add Pin To Net: Unknown Pin: Pin J6-MP1
+Add Pin To Net: Unknown Pin: Pin J6-MP2
