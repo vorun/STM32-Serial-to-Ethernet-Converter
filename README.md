@@ -1,6 +1,6 @@
 # STM32-Serial-to-Ethernet-Converter
  
- STM32 board to be used for conversion between serial protocols to ethernet. It has 3V3 RS232 with DB-9 connector, 3V3 RS485, 5V CAN and ethernet For ethernet connection Wiznet W5500 ethernet controller is used
+ STM32 board to be used for conversion between serial protocols to ethernet. It has 3V3 RS232 with DB-9 connector, 3V3 RS485, 5V CAN and ethernet. For ethernet connection WIZnet W5500 ethernet controller is used
  
  -RS232 connected to USART1 perihperal.
  
